@@ -1,0 +1,22 @@
+{
+  "name": "getip",
+  "version": "1.0.0",
+  "description": "GetIP Service.",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "keywords": [
+    "ip",
+    "getip"
+  ],
+  "author": "shixiongfei",
+  "license": "MIT",
+  "dependencies": {
+    "lodash": "^4.17.10",
+    "restify": "^7.2.1"
+  },
+  "devDependencies": {
+    "babel-eslint": "^8.2.5",
+    "eslint": "^5.1.0"
+  }
+}
